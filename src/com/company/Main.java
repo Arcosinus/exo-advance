@@ -23,6 +23,5 @@ public class Main {
             int nbbillet = remisescan.nextInt();
             Lidl.billetverif(prixfinal,nbbillet);
         }
-
     }
 }
