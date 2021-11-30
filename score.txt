@@ -1,0 +1,9 @@
+Nombreutilisateur=2
+00Utilisateur=David
+Difficulty_0David=3
+Good_0David=0
+Bad_0David=1
+02Utilisateur=Antoine
+Difficulty_0Antoine=2
+Good_0Antoine=0
+Bad_0Antoine=1
